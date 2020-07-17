@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "43934718170",
+    "firebase_url": "https://tabala-4fd97.firebaseio.com",
+    "project_id": "tabala-4fd97",
+    "storage_bucket": "tabala-4fd97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43934718170:android:8d7556799fcc8aa173ade3",
+        "android_client_info": {
+          "package_name": "com.abdo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43934718170-mlqd5o5quuoh24doarfq3e203ilta256.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP6ZsIrmRApSofGj1h0yepux-7ZMcAVlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43934718170-mlqd5o5quuoh24doarfq3e203ilta256.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
